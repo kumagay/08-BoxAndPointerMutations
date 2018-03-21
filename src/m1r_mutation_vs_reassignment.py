@@ -4,8 +4,8 @@ This module demonstrates the distinction betweeen:
   -- RE-ASSIGNING the name BLAH to refer to a different object.
 
 Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
-         their colleagues and PUT_YOUR_NAME_HERE.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+         their colleagues and Yuhi Kumagai.
+"""  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 import rosegraphics as rg
 
@@ -18,11 +18,11 @@ import rosegraphics as rg
 def main():
     """ Runs several examples. """
     # example1()
-    # example2()
+    example2()
 
 
 # ----------------------------------------------------------------------
-# TODO: 2.
+# DONE: 2.
 #  Step a:  READ the code in  example1.
 #
 #  Step b:  PREDICT what  example1  will print when it runs.
